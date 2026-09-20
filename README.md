@@ -7,7 +7,7 @@ hello everyone, ***welcome***.
 is a little webpage about the **recipes** and code HTML.
 
 >
-> ### **What skills will I demonstrate with this :grey_question:**
+> ### skills will I demonstrate with this*
 >
 > - understand HTML structure
 > - understanding of local file structure management
