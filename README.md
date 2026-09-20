@@ -2,17 +2,16 @@
 
 hello everyone, ***welcome***.
 
-## what is this about :grey_question:
+## What is this project about?
 
-is a little webpage about the **recipes** and code HTML.
+This is a small webpage dedicated to sharing a collection of recipes. The project focuses on building a clean and structured HTML page while reinforcing the basics of front-end development.
 
->
-> ### skills will I demonstrate with this
->
-> - understand HTML structure
-> - understanding of local file structure management
->
+### Skills demonstrated
 
-### note
+- Understanding of HTML structure.
+- Organization and management of local project files.
+- Basic webpage design.
+
+### Note
 
 This project was interesting; I was able to create something that personally inspires me to keep going with the TOP course.
