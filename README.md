@@ -1,13 +1,17 @@
 # odin-recipes
 
-## what is this about?
+hello everyone, ***welcome***.
+
+## what is this about :grey_question:
 
 is a little webpage about the **recipes** and code HTML.
 
-> ### What skills will I demonstrate with this?
+>
+> ### **What skills will I demonstrate with this :grey_question:**
 >
 > - understand HTML structure
 > - understanding of local file structure management
+>
 
 ### note
 
