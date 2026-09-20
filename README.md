@@ -7,7 +7,7 @@ hello everyone, ***welcome***.
 is a little webpage about the **recipes** and code HTML.
 
 >
-> ### skills will I demonstrate with this*
+> ### skills will I demonstrate with this
 >
 > - understand HTML structure
 > - understanding of local file structure management
